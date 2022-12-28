@@ -1,0 +1,19 @@
+{
+  "name": "automationexercise",
+  "version": "1.0.0",
+  "description": "testy automatyczne cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testy",
+    "automatyczne"
+  ],
+  "author": "Noemi Krysiak-Wolańska",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/cypress": "^9.0.0",
+    "cypress": "^12.2.0"
+  }
+}

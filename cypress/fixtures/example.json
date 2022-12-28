@@ -1,0 +1,18 @@
+{
+  "name": "Konnan",
+  "email": "hello@cypress.op",
+  "password": "!qazWsx",
+  "day": 1,
+  "month": 12,
+  "year": "1999",
+  "firstName": "Julia",
+  "lastName": "Roberts",
+  "company": "FilmWeb",
+  "address1":"Csmpol",
+  "address2": 1,
+  "country": "Australia",
+  "state": "Majorka",
+  "city": "Lodz",
+  "zipcode": "11-300PL",
+  "mobileNumber": "48987521456"
+}
