@@ -7,15 +7,5 @@ export default class MainPage{
         cy.visit("");
     }
 
-    static  logout(){
-        cy.findByText(' Logout').click();
-    }
-
-    static  deleteAccount(){
-        cy.findByText(' Delete Account').click();
-
-    }
-    static loggedInAs(){
-        cy.findByText(' Logged in as ').click();
-    }
+    
 }

@@ -31,4 +31,17 @@ export default class Navbar{
         cy.findByText(' Contact us').click();        
             
     }
+
+    static  logout(){
+        cy.findByText(' Logout').click();
+    }
+
+    static  deleteAccount(){
+        cy.findByText('Delete Account').click();
+
+    }
+
+    static loggedInAs(name){
+        cy.findByText(name).as('loggedInAs');
+    }
 }

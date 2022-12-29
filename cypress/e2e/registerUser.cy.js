@@ -1,7 +1,7 @@
 import Navbar from "../page-objects/components/Navbar";
 import LoginSingUpPage from "../page-objects/page/LoginPage";
 import MainPage from "../page-objects/page/MainPage"
-import {name,email,password,day,month,year,firstName,lastName,company,address1,address2,country,state,city,zipcode,mobileNumber} from "..//fixtures/example.json"
+import {name,email,password,day,month,year,firstName,lastName,company,address1,address2,country,state,city,zipcode,mobileNumber} from "..//fixtures/user3.json"
 import SingUpPage from "../page-objects/page/SingUpPage";
 
 describe("Home page is visible successfully'", () =>{
